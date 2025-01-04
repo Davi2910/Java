@@ -1,6 +1,7 @@
 package poo;
 
 public class Fusca {
+    
     public static void main(String[] args) {
         Carro fusca = new Carro();
         fusca.ano = 1970;
